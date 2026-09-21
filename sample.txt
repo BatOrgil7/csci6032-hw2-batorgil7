@@ -1,0 +1,5 @@
+The computer science TA's room is at 232.
+Weir Hall is between the student union and the rebel market.
+I cloned the GitHub repo.
+I use windows operating system.
+Claude, Open AI and Gemini all have command line interface agents.
