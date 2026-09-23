@@ -1,2 +1,8 @@
 ﻿__pycache__/
 *.pyc
+
+# Submission archives are built from HEAD and never committed
+*.tar.gz
+
+# Playwright MCP writes browser console logs here; may contain Blackboard page data
+.playwright-mcp/
